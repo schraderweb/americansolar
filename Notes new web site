@@ -1,0 +1,71 @@
+
+user: 390237836
+pw:   ASCscott2022!
+
+American Solar Company
+info@amsolarco.com
+805-314-2036
+
+
+
+
+cname	autodiscover	autodiscover.outlook.com.
+
+cname	email	email.secureserver.net.
+
+cname	lyncdiscover	webdir.online.lync.com.
+
+cname	msoid	clientconfig.microsoftonline-p.net.
+
+cname	sip	sipdir.online.lync.com.
+
+cname	www	amsolarco.com.
+
+cname	_domainconnect	_domainconnect.gd.domaincontrol.com.
+
+
+
+mx	@	amsolarco-com.mail.protection.outlook.com. (Priority: 0)
+
+txt	@	NETORGFT11939221.onmicrosoft.com
+
+txt	@	NETORGFT1626655.onmicrosoft.com
+
+txt	@	v=spf1 include:secureserver.net -all
+
+
+srv	_sip._tls.@	100 1 443 sipdir.online.lync.com.
+
+srv	_sipfederationtls._tcp.@	100 1 5061 sipfed.online.lync.com.
+
+
+
+==========================================
+
+
+
+
+On Saturday, September 24th, 2022 at 9:04 PM, Jason Wadsworth <jason@bss-pa.com> wrote:
+
+
+> Hi Bret, here are the FTP credentials for cashtomorrow.net
+>
+> Username is jwadsworth01_cashtomorrow
+>
+> Password is 83^!wP9pO2qs
+>
+> server is jwadsworth01.pairserver.com
+>
+> This is a dedicated server I have that was previously home to multiple
+> shared accounts so the migration was a bit a messy but we are getting by.
+>
+> As was stated this domain is a loan matching and also financial tip
+> site. Will include tons of affiliate links and also some q/a. Nothing
+> major;
+>
+> For a quick example you can just look at https://www.loannow.com/ That's
+> just a generic website when I searched for get a loan now.
+>
+> Thanks, please let me know what you need from me to proceed.
+>
+> Jason Wadsworth
