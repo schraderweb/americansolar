@@ -183,3 +183,21 @@
     margin-left: 380px;
   }
 }
+
+#bg-img .mbtn{
+	display:none !important
+}
+.smobile{
+display:none !important }
+
+@media screen and (max-width: 768px) {
+  #bg-img .mbtn{
+	    display: inline-block !important;
+  }
+  .smobile{
+	display: inline-block !important;
+ }
+ .navbar-nav .btn-warning{
+	display:none !important
+ }
+}
