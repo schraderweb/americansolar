@@ -187,12 +187,13 @@
 #bg-img .mbtn{
 	display:none !important
 }
+
 .smobile{
 display:none !important }
 
 @media screen and (max-width: 768px) {
   #bg-img .mbtn{
-	    display: inline-block !important;
+	    display: none !important;
   }
   .smobile{
 	display: inline-block !important;
