@@ -195,7 +195,5 @@ display:none !important }
   .smobile{
 	display: inline-block !important;
  }
- .navbar-nav .btn-warning{
-	display:none !important
- }
+
 }
