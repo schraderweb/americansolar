@@ -187,13 +187,17 @@
 
 .smobile{
 display:none !important }
-
+.mobbtn{
+display:none;}
 @media screen and (max-width: 768px) {
-  #bg-img .mbtn{
+  .deskbtn{
 	    display: none !important;
   }
   .smobile{
 	display: inline-block !important;
  }
-
+ 
+ .navbar-nav .btn-warning{
+	display:none !important
+ }
 }
