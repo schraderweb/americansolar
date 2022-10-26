@@ -189,6 +189,21 @@
 display:none !important }
 .mobbtn{
 display:none;}
+@media screen and (max-width: 992px) {
+	.navbar-nav{
+		    padding-left: 0px !important;
+	}
+	.navbar-nav .d-flex{
+		display: block !important;
+		    width: 100%;
+	}
+	.nav-item {
+		float: unset !important;
+		width: 100%;
+	}
+	.navtext{
+	float:unset !important}
+}
 @media screen and (max-width: 768px) {
   .deskbtn{
 	    display: none !important;
