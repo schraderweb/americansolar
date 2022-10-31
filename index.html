@@ -32,8 +32,7 @@
 
   </head>
   <body>
-    <script
-      async
+    <script async
       type="text/javascript"
       src="https://userlike-cdn-widgets.s3-eu-west-1.amazonaws.com/bd1e79bf782a0623e3e30b08665d1dd8cfe7e70d7fb6d390fe4e21e5db304881.js"
     ></script>
@@ -44,9 +43,15 @@
       body,
       header,
       .view.jarallax {
-
-        height: 100%;
-        min-height: 90%;
+		    max-width: 100%;
+		overflow-x: hidden;
+        height: auto;
+        min-height:auto;
+      }
+	  .navbar {
+	  right:0 !important;
+	  left:0 !important;
+	  width:100% !important;
       }
       .shadow-font {
         text-shadow: 2px 2px grey;
@@ -153,6 +158,9 @@
         background-image: url('img/Home Page - Advanced Solar Power & Energy 01.jpg');
         background-size:cover;
         background-repeat: no-repeat;
+		    padding: 50px 0px;
+		min-height: 100vh;
+		margin-top: 131px;
         
       }
     }
@@ -161,7 +169,8 @@
         #bg-img {
           background-image: url('img/advance-solar-mobile-2.jpg');
           background-position: center;
-        
+            margin-top: 125px;
+		padding: 50px 0px;
       }
     }
       @media (min-width: 961px) {
